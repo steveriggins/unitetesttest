@@ -1,6 +1,6 @@
 //
-//  UnitTest_TestTests.m
-//  UnitTest TestTests
+//  UnitTestTestTests.m
+//  UnitTestTestTests
 //
 //  Created by Steven Riggins on 4/6/15.
 //  Copyright (c) 2015 Steve Riggins. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface UnitTest_TestTests : XCTestCase
+@interface UnitTestTestTests : XCTestCase
 
 @end
 
-@implementation UnitTest_TestTests
+@implementation UnitTestTestTests
 
 - (void)setUp {
     [super setUp];
