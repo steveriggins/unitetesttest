@@ -367,6 +367,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
+				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -412,6 +413,7 @@
 				209B9FFA1AD33D69009751EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		209B9FFB1AD33D69009751EE /* Build configuration list for PBXNativeTarget "UnitTestTestTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +422,7 @@
 				209B9FFD1AD33D69009751EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
