@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
+#import "Fakeheader.h" // Force the unit test build to fail on Jenkins
 
 @interface UnitTestTestTests : XCTestCase
 
